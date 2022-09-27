@@ -38,3 +38,10 @@ Ejemplo: Cubo RGB: Rojo (1,0,0), Verde(0,1,0), Azul(0,0,1)
     - Detectar Rostros: Probabilidad de píxel de piel
     - Modelo de fondo en carreteras: carretera estático, coches en movimiento
 
+
+## 2. Operaciones de Convolución entre imágenes: Filtros
+
+  - Filtro Promedio: Promedio entre los vecinos del pixel en el que estoy posicionado (Difuminado)
+  - Detección de Bordes
+  - Filtro Promedio Gaussiano: Resultado similar a un filtro promedio pero se le da más peso al píxel en el que se posiciona el kernel (pondera)
+  
